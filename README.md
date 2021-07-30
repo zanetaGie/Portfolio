@@ -6,6 +6,7 @@ My name is Żaneta Gieroń. PhD student at University of Silesia, Institute of B
 * Testing web applications.
 * Creating test cases.
 * Reporting bugs.
+* DevTools.
 * Using IntelliJ IDEA to automate tests.
 * Knowledge of the TestNG framework.
 * Finding CSS Selectors and xPaths.
