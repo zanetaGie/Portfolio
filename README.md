@@ -20,4 +20,3 @@ My name is Żaneta Gieroń. PhD student at University of Silesia, Institute of B
 # My Test Documentation
  * [My test case example](https://drive.google.com/file/d/1Lj68OAhYDFZFL-RCfYTrkES-KPxs3U3R/view?usp=sharing)
  * [My bug reports](https://drive.google.com/file/d/1w0wGiPlrz73B_bYA8lfFAbJWoxLVUDcY/view?usp=sharing)
- 
