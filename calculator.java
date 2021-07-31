@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class calculator {
     public static WebDriver driver;
 
-
+    //Ustawienia poczatkowe
     @BeforeTest
     public void startBrowser(){
         System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
@@ -20,7 +20,7 @@ public class calculator {
         driver.manage().window().maximize();
         driver.get("https://www.sigmaaldrich.com/PL/pl/support/calculators-and-apps/solution-dilution-calculator");
     }
-
+    //Ustawienia koncowe
     @AfterTest
     public void closeBrowser(){
         driver.quit();
