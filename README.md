@@ -9,7 +9,7 @@ My name is Żaneta Gieroń. PhD student at University of Silesia, Institute of B
 * DevTools.
 * Using IntelliJ IDEA to automate tests.
 * Knowledge of the TestNG framework.
-* Finding CSS Selectors and xPaths.
+* Finding xPaths and CSS Selectors.
 * Basics of Postgre SQL.
 * Knowledge of the ISTQB syllabus content.
 * Knowledge of MS Office (Word, Excel, PowerPoint).
